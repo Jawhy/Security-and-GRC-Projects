@@ -1,0 +1,84 @@
+[
+  {
+    "vendor_name": "AlphaCloud Hosting",
+    "service_type": "Cloud Infrastructure",
+    "data_sensitivity": "highly_confidential",
+    "hosting_location": "us",
+    "ai_usage": "none",
+    "subcontractors": "medium",
+    "service_criticality": "critical",
+    "outsourcing_type": "material",
+    "risk_owner": "Head of IT Operations",
+    "review_date": "2026-01-15",
+    "status": "Open",
+    "certifications": [
+      "iso_27001",
+      "soc2_type2"
+    ]
+  },
+  {
+    "vendor_name": "InsightAI Analytics",
+    "service_type": "AI Decision Support",
+    "data_sensitivity": "confidential",
+    "hosting_location": "other",
+    "ai_usage": "autonomous",
+    "subcontractors": "high",
+    "service_criticality": "high",
+    "outsourcing_type": "critical",
+    "risk_owner": "Chief Risk Officer",
+    "review_date": "2026-02-15",
+    "status": "In Remediation",
+    "certifications": [
+      "iso_27001"
+    ]
+  },
+  {
+    "vendor_name": "SecurePay Gateway",
+    "service_type": "Payment Processing",
+    "data_sensitivity": "highly_confidential",
+    "hosting_location": "eu",
+    "ai_usage": "internal",
+    "subcontractors": "low",
+    "service_criticality": "critical",
+    "outsourcing_type": "critical",
+    "risk_owner": "Head of Finance",
+    "review_date": "2026-06-01",
+    "status": "Open",
+    "certifications": [
+      "iso_27001",
+      "pci_dss",
+      "gdpr"
+    ]
+  },
+  {
+    "vendor_name": "HRSoft Solutions",
+    "service_type": "HR SaaS Platform",
+    "data_sensitivity": "confidential",
+    "hosting_location": "uk",
+    "ai_usage": "third_party",
+    "subcontractors": "medium",
+    "service_criticality": "medium",
+    "outsourcing_type": "non-material",
+    "risk_owner": "HR Director",
+    "review_date": "2026-05-10",
+    "status": "Accepted",
+    "certifications": [
+      "iso_27001",
+      "iso_42001"
+    ]
+  },
+  {
+    "vendor_name": "DataArchive Co",
+    "service_type": "Long-Term Data Storage",
+    "data_sensitivity": "internal",
+    "hosting_location": "high_risk",
+    "ai_usage": "none",
+    "subcontractors": "low",
+    "service_criticality": "critical",
+    "outsourcing_type": "material",
+    "risk_owner": "Chief Data Officer",
+    "review_date": "2026-03-20",
+    "status": "Open",
+    "certifications": []
+  }
+]
