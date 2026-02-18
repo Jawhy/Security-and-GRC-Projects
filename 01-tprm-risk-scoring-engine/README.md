@@ -1,6 +1,6 @@
 # TPRM Risk Scoring Engine
 
-🔗 **[[Live Demo](https://tprmdemo.streamlit.app/)](https://tprmdemo.streamlit.app/)**
+🔗 **[[Live Demo](https://tprmdemo.streamlit.app/)]
 
 
 
