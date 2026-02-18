@@ -1,0 +1,7 @@
+vendor,service,outsourcing,data_class,residency,red_count,amber_count,missing_count,status,rationale
+SecureCloud Ltd,Cloud Hosting,Material,Highly Confidential,United Kingdom,0,0,0,Approved,Approved: all mandatory controls satisfied and no risks identified
+PaySecure Ltd,Payment Processing,Critical,Highly Confidential,United Kingdom,0,0,0,Approved,Approved: all mandatory controls satisfied and no risks identified
+DataFlow Inc,Data Analytics,Non-Material,Confidential,United States,0,2,0,Conditional,Conditional because: 2 amber risk(s) require remediation within agreed timeframe
+NorthBridge HR,HR SaaS Platform,Non-Material,Internal,European Union,0,1,0,Conditional,Conditional because: 1 amber risk(s) require remediation within agreed timeframe
+LogiSoft Corp,HR Software,Non-Material,Internal,United Kingdom,5,1,0,Reject,Rejected because: 5 critical control failure(s)
+OrionSupport Services,Managed IT Support,Material,Internal,China,0,1,0,Reject,Rejected because: 1 amber risk(s) escalated due to materiality
