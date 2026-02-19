@@ -1,6 +1,6 @@
 # Compliance Risk Register Dashboard
 
-🔗 **[Live Demo](#)** ← update after deployment
+🔗 **[Live Demo](https://compliancedashboard.streamlit.app/)** 
 
 A financial-sector aligned compliance risk register analysis and reporting tool built in Python and Streamlit.
 
