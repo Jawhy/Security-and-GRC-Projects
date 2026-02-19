@@ -1,8 +1,6 @@
+../venv/
 venv/
 __pycache__/
 *.pyc
 .env
 reports/
-*.html
-*.pyc
-.DS_Store
