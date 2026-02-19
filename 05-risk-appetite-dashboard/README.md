@@ -1,6 +1,6 @@
 # Risk Appetite & Metrics Dashboard
 
-🔗 **[Live Demo](#)** ← update after deployment
+🔗 **[Live Demo](https://riskappetite.streamlit.app/)** 
 
 A financial-sector aligned risk appetite monitoring and committee reporting tool built in Python and Streamlit.
 
