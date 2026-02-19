@@ -1,6 +1,6 @@
 # Security Incident & Vulnerability Tracker
 
-🔗 **[Live Demo](#)** ← update after deployment
+🔗 **[Live Demo](https://incidenttracker.streamlit.app/)** 
 
 A financial and enterprise-grade security operations tool built in Python and Streamlit.
 
