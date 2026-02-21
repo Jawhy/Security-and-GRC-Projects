@@ -48,7 +48,7 @@ Validates vendor onboarding controls, applies materiality-based escalation logic
 
 **Stack:** Python · Streamlit
 **Frameworks:** ISO 27001 · FCA SS2/21 · EBA GL/2019/02 · UK GDPR Art.28
-**Repo:** [06-due-diligence-validator](https://github.com/Jawhy/06-due-diligence-validator) | **[Live Demo](#)**
+**Repo:** [06-due-diligence-validator](https://github.com/Jawhy/06-due-diligence-validator) | **[Live Demo](https://ddvalid.streamlit.app/)**
 
 ---
 
