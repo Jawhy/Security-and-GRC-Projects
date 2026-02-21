@@ -39,7 +39,7 @@ Tracks compliance metrics against appetite and tolerance thresholds, detects wor
 
 **Stack:** Python · Streamlit · Groq AI · Matplotlib
 **Frameworks:** ISO 27001 · FCA SYSC · UK GDPR · ISO 42001
-**Repo:** [05-risk-appetite-dashboard](https://github.com/Jawhy/05-risk-appetite-dashboard) | **[Live Demo](#)**
+**Repo:** [05-risk-appetite-dashboard](https://github.com/Jawhy/05-risk-appetite-dashboard) | **[Live Demo](https://riskappetite.streamlit.app/)**
 
 ---
 
